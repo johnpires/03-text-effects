@@ -1,5 +1,5 @@
 # 100 Projetos em 100 Dias - HTML e CSS
-# 03-text-effects
+# 03 Text Effects
 Este é o principal repositório para todos os projetos dos Cursos de HTML e CSS.
 
 CURSOS LINK 👇
