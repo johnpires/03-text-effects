@@ -14,10 +14,10 @@ CURSOS LINK 👇
 | 02  | [Text Effect-2](https://github.com/johnpires/03-text-effects/tree/main/Text-Effect-02)      | Clique aqui |
 | 03  | [Text Effect-3](https://github.com/johnpires/03-text-effects/tree/main/Text-Effect-03)      | Clique aqui |
 | 04  | [Text Effect-4](https://github.com/johnpires/03-text-effects/tree/main/Text-Effect-04)      | Clique aqui |
-| 05  | [Text Effect-5]()      | Clique aqui |
-| 06  | [Text Effect-6]()      | Clique aqui |
-| 07  | [Text Effect-7]()      | Clique aqui |
-| 08  | [Text Effect-8]()      | Clique aqui |
+| 05  | [Text Effect-5](https://github.com/johnpires/03-text-effects/tree/main/Text-Effect-05)      | Clique aqui |
+| 06  | [Text Effect-6](https://github.com/johnpires/03-text-effects/tree/main/Text-Effect-06)      | Clique aqui |
+| 07  | [Text Effect-7](https://github.com/johnpires/03-text-effects/tree/main/Text-Effect-07)      | Clique aqui |
+| 08  | [Text Effect-8](https://github.com/johnpires/03-text-effects/tree/main/Text-Effect-08)      | Clique aqui |
 | 09  | [Text Effect-9]()      | Clique aqui |
 | 10  | [Text Effect-10]()      | Clique aqui |
 
